@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact-Manager-App/static/css/main.df4db740.css",
+    "main.js": "/Contact-Manager-App/static/js/main.adb6a543.js",
+    "index.html": "/Contact-Manager-App/index.html",
+    "main.df4db740.css.map": "/Contact-Manager-App/static/css/main.df4db740.css.map",
+    "main.adb6a543.js.map": "/Contact-Manager-App/static/js/main.adb6a543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4db740.css",
+    "static/js/main.adb6a543.js"
+  ]
+}
