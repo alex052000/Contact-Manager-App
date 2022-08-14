@@ -1,6 +1,6 @@
 import React, {useRef} from "react";
 import ContactCard from "./ContactCard";
-import {FaSearch, FaAccessibleIcon} from 'react-icons/fa';
+import {FaSearch} from 'react-icons/fa';
 
 const ContactList = (props) => {
    const inputEl = useRef("");
